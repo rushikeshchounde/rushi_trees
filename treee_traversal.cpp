@@ -57,3 +57,5 @@ int main() {
 
   cout << "\nPostorder traversal ";
   postorderTraversal(root);
+return 0;
+}
