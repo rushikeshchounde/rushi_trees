@@ -12,7 +12,7 @@ struct Node {
   }
 };
 
-// Preorder traversal
+// Preorder traversal of tree
 void preorderTraversal(struct Node* node) {
   if (node == NULL)
     return;
